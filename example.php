@@ -4,6 +4,7 @@ require_once("db.class.php");
 
 $db=new db("tableName");
 
+
 /* ----------------------------------------------------------------
 (ARRAY) ALL
 PARAM1st [OFFSET PAGE(OPTION)]
